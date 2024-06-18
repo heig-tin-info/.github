@@ -5,6 +5,7 @@ Cette organisation contient les supports de cours du département [TIN](https://
 - Informatique 1
 - Informatique 2
 - Programmation orientée objet
+- Programmation concurrente
 - Cours à choix Python
 - Microinformatique
 
